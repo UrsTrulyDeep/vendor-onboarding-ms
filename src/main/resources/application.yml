@@ -1,0 +1,4 @@
+# Sample Spring Boot config
+spring:
+  application:
+    name: vendor-onboarding
