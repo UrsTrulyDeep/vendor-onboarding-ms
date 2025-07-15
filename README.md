@@ -54,7 +54,7 @@ vendor-onboarding/
 │
 ├── qualitygate/
 │   ├── pr-qualitygate.properties    # PR-specific quality rules
-│   └── qualitygate.properties       # Code quality configs (likely for SonarQube)
+│   └── qualitygate.properties       # Code quality configs (for SonarQube, Veracode, etc)
 │
 ├── azure-pipeline.yml               # Azure DevOps CI/CD pipeline
 ├── Dockerfile                       # Builds microservice Docker image
